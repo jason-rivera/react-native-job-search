@@ -1,5 +1,11 @@
 # Job Search application created with React Native
 
+## Preview
+
+![Home Page](https://64.media.tumblr.com/d987fa0a08464c3a87bb5994e10ff1b8/bb18d2d38ab7e607-88/s2048x3072/5a8997aee8f672a3f5ebb85d8337075424d96c7d.jpg)
+
+![Job Details Page](https://64.media.tumblr.com/aede59c3a7513e9724ba6999f279ae0f/bb18d2d38ab7e607-c8/s2048x3072/7c53881583aecc33f9daf7480f1addbe2eda6c79.jpg)
+
 ## 🚀 How to use
 
 1. Make sure you have Expo Go installed on your iPhone or Android device.
